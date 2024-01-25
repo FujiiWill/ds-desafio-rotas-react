@@ -1,0 +1,8 @@
+.item-category-container {
+  background-color: var(--dsrr-color-bg-tertiary);
+  color: var(--dsrr-color-font-secondary);
+  font-size: 16px;
+  padding: 20px;
+  height: 60px;
+  width: 100%;
+}

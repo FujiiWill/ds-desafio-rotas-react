@@ -1,0 +1,13 @@
+header {
+  background-color: var(--dsrr-color-bg-primary);
+  color: var(--dsrr-color-font-primary);
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
